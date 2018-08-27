@@ -9,7 +9,7 @@ setuptools.setup(
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     url="https://github.com/LeonLian/pipPackagingTest.git",
-    scripts=['helloworld']
+    scripts=['helloworld.py']
 )
 
 
