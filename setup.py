@@ -8,8 +8,7 @@ setuptools.setup(
     description="This is my first pip package",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="",
-    # packages=setuptools.find_packages(),
+    url="https://github.com/LeonLian/pipPackagingTest.git",
     scripts=['helloworld']
 )
 
