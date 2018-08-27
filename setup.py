@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='my-first-helloworld-script',
-    version='0.1',
+    version='0.12',
     author="lian zheng",
     author_email="lianzheng07@163.com",
     description="This is my first pip package",
